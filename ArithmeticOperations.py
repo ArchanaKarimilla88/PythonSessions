@@ -5,5 +5,5 @@ c = a+b
 print(c)
 d = a-b
 print(d)
-e = c+d
+e = a*b
 print(e)
